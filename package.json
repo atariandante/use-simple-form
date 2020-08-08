@@ -1,7 +1,14 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@atariandante/use-simple-form",
+  "version": "0.3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/atariandante/use-simple-form.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@atariandante"
+  },
+  "author": "Gregorio Garcia",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
